@@ -83,7 +83,7 @@ $(function () {
     })
     
     // animate同时执行
-    $(dom).next().animate({
+    $(dom).animate({
         mul: {  // 目标
             height : 150,
             opacity : 100
